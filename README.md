@@ -49,3 +49,7 @@ Soal 1
 Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda pelajari dan bagaimana tampilannya saat ini?
 ![Screenshot](assets-report/01.png)
 
+Soal 2
+Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda pelajari dan bagaimana tampilannya saat ini? Jika terjadi error, silakan perbaiki, Mengapa hal itu bisa terjadi? Jelaskan!
+Perlu menambahkan use client
+![Screenshot](assets-report/02.png)

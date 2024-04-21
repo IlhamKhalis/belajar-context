@@ -63,3 +63,15 @@ Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda 
 Soal 4
 Capture hasilnya dan buatlah laporan di README.md. Tambahkan teks Nama dan NIM pada bagian komponen Post agar menunjukkan itu hasil kerja Anda!
 ![Screenshot](assets-report/04.png)
+
+### Praktikum 3
+
+Soal 5
+Silakan save semua dan lakukan running di browser Anda. Capture hasilnya dan buatlah laporan di README.md. Tambahkan teks Nama dan NIM pada setiap page routing agar menunjukkan itu hasil kerja Anda sendiri!
+
+Apakah toggle button tema sudah berfungsi ? jika belum, silakan perbaiki!
+Bisa
+Mengapa ketika refresh atau berpindah halaman tema tidak permanen ? Buatlah menjadi permanen walaupun page sudah direfresh dan pindah halaman!
+![Screenshot](assets-report/05.png)
+![Screenshot](assets-report/06.png)
+![Screenshot](assets-report/07.png)

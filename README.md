@@ -57,3 +57,9 @@ Perlu menambahkan use client
 Soal 3
 Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda pelajari dan bagaimana tampilannya saat ini?
 ![Screenshot](assets-report/03.png)
+
+### Praktikum 2
+
+Soal 4
+Capture hasilnya dan buatlah laporan di README.md. Tambahkan teks Nama dan NIM pada bagian komponen Post agar menunjukkan itu hasil kerja Anda!
+![Screenshot](assets-report/04.png)
